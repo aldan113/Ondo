@@ -134,11 +134,13 @@ SEGERA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TVRI-SPORT.jpg" group-title="FIFA WORLD CUP 2026",🇮🇩ID-TVRI SPORT
 #http://103.148.44.38:8000/play/a05u/index.m3u8
-http://iptv.kilas7.com:80/kaukia/asdfrewq/272
+#http://iptv.kilas7.com:80/kaukia/asdfrewq/272
+https://tvri.cob.web.id/hls2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TVRI.jpg" group-title="FIFA WORLD CUP 2026",🇮🇩ID-TVRI NASIONAL
 #http://103.148.44.38:8000/play/a03t/index.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
+https://pildun.cob.web.id/hls2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/DSPORTS.jpg" group-title="FIFA WORLD CUP 2026",🇦🇷AR-D SPORTS
@@ -200,6 +202,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTINF:-1 tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",🇨🇦CA-TSN 4K
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+
+#EXTINF:-1 tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",🇨🇦CA-TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/CHILEVISION.jpg" group-title="FIFA WORLD CUP 2026",🇨🇱CL-CHILEVISION
@@ -376,6 +383,15 @@ http://106.107.177.247:5678/live/stream-75ae3a1c-49a7-4972-932b-73ae6b796569/ind
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://106.107.177.247:5678/live/stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 
+
+#EXTINF:-1 tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",🇬🇧UK-ITV 1
+http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120268.ts
+
+
+#EXTINF:-1 tvg-logo="LinkLogo" group-title="FIFA WORLD CUP 2026",🇺🇸US-FOX SPORT 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/FS1.jpg" group-title="FIFA WORLD CUP 2026",🇺🇸US-FS1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
