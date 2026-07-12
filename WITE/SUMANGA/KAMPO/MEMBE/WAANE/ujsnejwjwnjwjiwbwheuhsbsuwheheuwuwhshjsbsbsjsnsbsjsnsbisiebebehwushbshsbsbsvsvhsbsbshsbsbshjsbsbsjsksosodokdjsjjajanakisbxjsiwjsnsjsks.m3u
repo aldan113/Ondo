@@ -13,7 +13,7 @@ SEGERA
 ######## INDONESIA #########
 ###########################
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/VISION-PLUS/TRANS7.jpg" group-title="upup",TRANS 7 (V+)
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/VISION-PLUS/TRANS7.jpg" group-title="NASIONAL🇮🇩",TRANS 7 (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
