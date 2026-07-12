@@ -1,74 +1,191 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-hudgfgppgk.xml,https://epg.pw/xmltv/epg.xml"
+
+
+###########################
+######## LIVE EVEN #########
+###########################
+
+
+SEGERA
+
 
 ###########################
 ######## INDONESIA #########
 ###########################
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/VISION-PLUS/TRANS7.jpg" group-title="upup",TRANS 7 (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/VIDIO/TRANS7.jpg" group-title="NASIONAL🇮🇩",TRANS 7 (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/734/res=720p/file/stream.mpd?hdnts=exp=1783786447~acl=/stream/734/res=720p/file/stream.mpd!/stream/734/file/*/aac/*!/stream/734/file/*/*-720p/*!/stream/734/file/*/*-480p/*!/stream/734/file/*/*-360p/*~id=205491185~hmac=7f19e662a76432f490a5dfcc5f1bc9317d8edcf0fee97d675cc9f48b9b353aa9
+
+========================================================================================================================
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",TRANS TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",TRANS TV (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/733/res=720p/file/stream.mpd?hdnts=exp=1783786726~acl=/stream/733/res=720p/file/stream.mpd!/stream/733/file/*/aac/*!/stream/733/file/*/*-720p/*!/stream/733/file/*/*-480p/*!/stream/733/file/*/*-360p/*~id=205491185~hmac=1921bd3ab9ee8a703c28d33276ba52e0dd3cb49e560ebab11d448b3f23dab952
+
+========================================================================================================================
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",INDOSIAR (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+========================================================================================================================
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",SCTV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",RCTI (V+)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",MNC TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",GTV (V+)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",iNEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",ANTV (V+)
+#KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",ANTV (VD)
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id=MDTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",MDTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",RTV (DNS)
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="TVONE.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",TV ONE (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",KOMPAS TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",KOMPAS TV (VD)
+https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash
+
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="CNN.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",CNN INDONESIA
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",TRANS TV
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="NTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",NTV
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",INDOSIAR
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",BTV
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",SCTV
-LinkM3us
+========================================================================================================================
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",RCTI
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",BERITA SATU
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",MNC TV
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",TVRI NASIONAL
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",GTV
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",TVRI WORLD
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",iNEWS
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",IDX
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",ANTV
+========================================================================================================================
+
+
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",DAAI TV
 LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",MDTV
-LinkM3u
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="NASIONAL🇮🇩",NamaChnel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tencent-css-live.byteplaycdn.com/vos/DASH/metrotv/manifest.mpd?enc=2gyBW8yZiZmca_1kn4uvdQ&exp=1783824172&encp=2OJ05PlM586Ihkz5cjz-mA&expp=1783834672
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",RTV
-LinkM3u
 
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",TV ONE
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",METRO TV
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",KOMPAS TV
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",CNN INDONESIA
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",NTV
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",BTV
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",BERITA SATU
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",TVRI NASIONAL
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",TVRI WORLD
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",IDX
-LinkM3u
-
-#EXTINF:-1 tvg-logo="LinkLogo" group-title="NamaGroup",DAAI TV
-LinkM3u
+AIzaSyAhNmNABl-5Gtu34j5JY2LvrWGtPS9xUkA
 
 
 ###########################
@@ -90,6 +207,7 @@ SEGERA
 ###########################
 ####### OLAHRAGA ID ########
 ###########################
+
 
 
 SEGERA
@@ -128,11 +246,75 @@ SEGERA
 
 
 ###########################
+########## BALAP ##########
+###########################
+
+
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="LinkLogo" group-title="BALAP🏁",SPOTV 2🇮🇩 (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2.ph" tvg-logo="LinkLogo" group-title="BALAP🏁",SPOTV 2🇵🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+
+###########################
+########### UCL ###########
+###########################
+
+
+SEGERA
+
+
+###########################
+########## LA LIGA ##########
+###########################
+
+
+SEGERA
+
+
+###########################
+########## EPL ############
+###########################
+
+
+SEGERA
+
+
+###########################
+########## SERIE A ##########
+###########################
+
+
+SEGERA
+
+
+###########################
+######### LEAGUE 1 #########
+###########################
+
+
+SEGERA
+
+
+###########################
+####### BUNDESLIGA #########
+###########################
+
+
+SEGERA
+
+
+###########################
 ######### FF WC 26 #########
 ###########################
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",TVRI SPORT(MAXTREAM)
+#EXTINF:-1 tvg-id="524008" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",TVRI SPORT(MAXTREAM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -141,18 +323,18 @@ SEGERA
 https://tencent-css.byteplaycdn.com/f18a0156f2692eb1f86fd02a637b2515/6A4DB997/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TVRI-SPORT.jpg" group-title="FIFA WORLD CUP 2026",🇮🇩ID-TVRI SPORT
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TVRI-SPORT.jpg" group-title="FIFA WORLD CUP 2026",🇮🇩ID-TVRI SPORT
 #http://103.148.44.38:8000/play/a05u/index.m3u8
 #http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 https://tvri.cob.web.id/hls2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TVRI.jpg" group-title="FIFA WORLD CUP 2026",🇮🇩ID-TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TVRI.jpg" group-title="FIFA WORLD CUP 2026",🇮🇩ID-TVRI NASIONAL
 #http://103.148.44.38:8000/play/a03t/index.m3u8
 #http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
 https://pildun.cob.web.id/hls2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/DSPORTS.jpg" group-title="FIFA WORLD CUP 2026",🇦🇷AR-D SPORTS
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/DSPORTS.jpg" group-title="FIFA WORLD CUP 2026",🇦🇷AR-D SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
@@ -176,13 +358,13 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TIPIK.jpg" group-title="FIFA WORLD CUP 2026",🇧🇪BE-TIPIK
+#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TIPIK.jpg" group-title="FIFA WORLD CUP 2026",🇧🇪BE-TIPIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a 
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇧🇪BE-LA UNE
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇧🇪BE-LA UNE
 http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
 
 
@@ -313,17 +495,17 @@ http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇶GQ-TVGE
 http://69.64.57.208/tvge/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇷GR-ERT 1
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇷GR-ERT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8011d97516cf5853846112834cb9bd8f:726916a29a0a349cb828c34503087528
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇷GR-ERT 2
+#EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇷GR-ERT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbd5b84b71b52868db8dff76aea048b:c229f59c5ca8263292876ed306ccd110
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇷GR-ERT 3
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇬🇷GR-ERT 3
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/ERT3-audio_208000_gre=206000-video=4132800.m3u8
 
 
@@ -346,7 +528,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://live-aburayhan1105.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 #https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",,🇮🇷IR-IRIB 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",🇮🇷IR-IRIB 3
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 
 
@@ -404,7 +586,7 @@ https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/SUKAN-P.jpg",🇲🇾MY-RTM SUKAN+
 http://iptv.kilas7.com:80/kaukia/asdfrewq/31
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png",🇲🇾MY-RTM OKEY
+#EXTINF:-1 tvg-id="TVOkey.my" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png",🇲🇾MY-RTM OKEY
 http://iptv.kilas7.com:80/kaukia/asdfrewq/32
 
 
@@ -492,6 +674,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/FIFA-WORLD-CUP-2026-CHANNEL-TV/TELEMUNDO.jpg" group-title="FIFA WORLD CUP 2026",🇺🇸US-TELEMUNDO
 https://l1.cukelis.com/stream1/telemundousa/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",FOX World Cup 4K HDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xbfi5dhehl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/AldNbrTv.png" group-title="FIFA WORLD CUP 2026",Bein Sport max 2
 https://cp11.adabmedia.com/hls2/sport.m3u8
