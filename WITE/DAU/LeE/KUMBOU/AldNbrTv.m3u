@@ -1,0 +1,307 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://iptv-epg.org/files/epg-hudgfgppgk.xml,https://epg.pw/xmltv/epg.xml"
+###EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-th.xml"##
+
+
+#detik #https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8#
+
+
+###########################
+######## LIVE EVEN #########
+###########################
+
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://cdn1-production-images-kly.akamaized.net/3BhGqlTVRKyYfANNN-8Jqetr6j8=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9365209/original/080094500_1791137099-indo.jpg" group-title="LIVE EVENT",FINAL FIFA ASEAN CUP | INDONESIA🇮🇩VS🇹🇭THAILAND
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+https://thebest.selina3.workers.dev/https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(adhoc2)/master.m3u8?hdnea=st%3D1791190199~exp%3D1791208199~acl%3D%2FContent%2FHLS_AES_TS%2Flive%2Fgeo%2Fchannel%28adhoc2%29%2F%2A~hmac%3D8bb8f29c9fa4b04e7c12969d19c660fbb1ae0d23686034ad405c77f819c2c757
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LinkLogo" group-title="LIVE EVENT",,NamaLive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
+
+
+###########################
+######## INDONESIA #########
+###########################
+
+---TRANS MEDIA---
+
+
+***TRANS 7 - V+***
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/VISION-PLUS/TRANS7.jpg" group-title="NASIONAL🇮🇩",TRANS 7 (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=7
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+
+***TRANS 7 - TV***
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/TRANS7-TV.jpg" group-title="NASIONAL🇮🇩",TRANS 7 (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VFJBTlM3LW15/manifest.mpd?signature=YzBiZjU3ZWM1MmJhZmQ5MTA1Nzk2YmRjN2JiMWQ1ZWM=&time=15261043071&device_id=HzlA9sfwBro52axHuxKK3Ew_Orkat7QBEoGWkosVUWK2r8UETF5D
+
+***TRANS 7 - TM***
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/TRANS7-TM.jpg" group-title="NASIONAL🇮🇩",TRANS 7 (TM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+
+
+========================================================================================================================
+
+***TRANS TV - V+***
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/TRANSTV-VP.jpg" group-title="NASIONAL🇮🇩",TRANS TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=6
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+***TRANS TV - TV***
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/TRANSTV-TV.jpg" group-title="NASIONAL🇮🇩",TRANS TV (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid02.transvision.co.id/riutx01-3f9d9dd6012b7cdd7558fdd44b9a002b/dashx/VHJhbnNUVg/manifest.mpd?signature=ZjUzZjQ3ZjE4YWJhYWY4NzQwNGViNzM5OTNjZTliZTc=&time=15261043250&device_id=rJ1tvg4-i3SBLKRALnvZsw-2Y5ugQgdRVCJALjVhD8G0pOs-mebw
+
+***TRANS TV - TM***
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/TRANSTV-TM.jpg" group-title="NASIONAL🇮🇩",TRANS TV (TM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+
+***TRANS TV - DG***
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/TRANSTV-DG.jpg" group-title="NASIONAL🇮🇩",TRANS TV (DG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ogietv.biz.id:443/Livetv/234/1312.m3u8
+#https://ogietv.biz.id:443/Livetv/234/1310.m3u8
+
+
+========================================================================================================================
+
+***CNN INDONESIA - TV***
+
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/CNN-TV.jpg" group-title="NASIONAL🇮🇩",CNN INDONESIA (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/Q05OaS1teQ/manifest.mpd?signature=MzM4ZWQ2YjkyZjQyYWQwOThiNTE0OWE2YzhhNjMyYWY=&time=15261043341&device_id=qrIXUv1kjtUGzdIsTmXCSYExNordHK64DLkMa-mXQEtU3-UdVeS3
+
+***CNN INDONESIA - OW***
+
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/CNN-OW.jpg" group-title="NASIONAL🇮🇩",CNN INDONESIA (OW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+***CNN CNN INDONESIA - DG***
+
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/CNN-DG.jpg" group-title="NASIONAL🇮🇩",CNN INDONESIA (DG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ogietv.biz.id:443/Livetv/234/1496.m3u8
+
+
+========================================================================================================================
+
+***CNBC INDONESIA - TV***
+
+#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/CNBC-TV.jpg" group-title="NASIONAL🇮🇩",CNBC (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=NDNiODJmNDdhNGMxZWM2MjQ2NTc3YmY1ODMzYmY3ZTg=&time=15261474471&device_id=mZWl5_bZkAprp1q8o8KF-htT53izsbp6yta2x2KbwLeekQf5iTTJ
+
+***CNBC INDONESIA - OW***
+
+#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/CNBC-OW.jpg" group-title="NASIONAL🇮🇩",CNBC INDONESIA (OW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+***CNBC INDONESIA - DG***
+
+#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/CNBC-DG.jpg" group-title="NASIONAL🇮🇩",CNBC INDONESIA (DG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ogietv.biz.id:443/Livetv/234/1497.m3u8
+
+
+#############################################################################################################
+---MNC GROUP---
+
+
+***RCTI - V+***
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/RCTI-VP.jpg" group-title="NASIONAL🇮🇩",RCTI (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+***RCTI - TV***
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/RCTI-TV.jpg" group-title="NASIONAL🇮🇩",RCTI (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=NWNlMzdkZDg5OGQ5M2ZjZDFmNWY4MjM2OTZjNTkwMzc=&time=15261473514&device_id=HZM1g_sZdeq3poqQHHEEVKVrjY0WltOq_37fNzdLIu3Xb5g8h869
+
+***RCTI - R+***
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/RCTI-RP.jpg" group-title="NASIONAL🇮🇩",RCTI (R+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+
+***RCTI - MX***
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/RCTI-MX.jpg" group-title="NASIONAL🇮🇩",RCTI (MX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti.mpd
+
+***RCTI - DG***
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/RCTI-DG.jpg" group-title="NASIONAL🇮🇩",RCTI (DG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ogietv.biz.id:443/Livetv/234/1316.m3u8
+
+
+========================================================================================================================
+
+***MNCTV - V+***
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/MNCTV-VP.jpg" group-title="NASIONAL🇮🇩",MNC TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=2
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+***MNCTV - TV***
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/MNCTV-TV.jpg" group-title="NASIONAL🇮🇩",MNCTV (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/TU5DVFY/manifest.mpd?signature=YWMzNjViMDdjNzEwMTBjZTM5ZWE1NGNlNmJlNDU5ZjE=&time=15261473661&device_id=SdzKUWEWgELdPrbrucMq82XeckNFUZpFZwlc2DCmOYKuJkxGXaAF
+
+***MNCTV - R+***
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/MNCTV-RP.jpg" group-title="NASIONAL🇮🇩",MNCTV (R+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+***MNCTV - MX***
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/MNCTV-MX.jpg" group-title="NASIONAL🇮🇩",MNCTV (MX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv.mpd
+
+***MNCTV - DG***
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/MNCTV-DG.jpg" group-title="NASIONAL🇮🇩",MNCTV (DG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ogietv.biz.id:443/Livetv/234/1317.m3u8
+
+
+========================================================================================================================
+
+***GTV - V+***
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/GTV-VP.jpg" group-title="NASIONAL🇮🇩",GTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=3
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+***GTV - TV***
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/GTV-TV.jpg" group-title="NASIONAL🇮🇩",GTV (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-origin=https://www.cubmu.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=NzlmN2Q2ODQ5YzdiYTY4NzI0NTk0ODA4M2M5OTg3ODA=&time=15261473571&device_id=12EYeI8KIt1hRsAkMRvvhR1EVrrK9FZlifR7Xyo61E2XlZjqUb_E
+
+***GTV - R+***
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/GTV-RP.jpg" group-title="NASIONAL🇮🇩",GTV (R+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+***GTV - MX***
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/GTV-MX.jpg" group-title="NASIONAL🇮🇩",GTV (MX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv.mpd
+
+***GTV - DG***
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/GTV-DG.jpg" group-title="NASIONAL🇮🇩",GTV (DG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+https://ogietv.biz.id:443/Livetv/234/1318.m3u8
+
+
+========================================================================================================================
+
+***INEWS - V+***
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/aldan113/LOGO-TV/refs/heads/main/INDONESIA/ALL/INEWS-VP.jpg" group-title="NASIONAL🇮🇩",iNEWS (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=4
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+
+***INEWS - R+***
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.c
