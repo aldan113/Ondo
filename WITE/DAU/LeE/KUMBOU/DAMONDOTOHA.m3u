@@ -184,7 +184,8 @@ https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+https://allcutv.rctiplus.id/rcti2023.m3u8
 
 ***RCTI - MX***
 
@@ -229,7 +230,8 @@ https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+https://allcutv.rctiplus.id/mnctv2023.m3u8
 
 ***MNCTV - MX***
 
@@ -275,6 +277,7 @@ https://cdnjktidc01.transvision.co.id/riutx01-89d98118fe5f6f842147a8e472cd2d11/d
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+https://allcutv.rctiplus.id/gtv2023.m3u8
 
 ***GTV - MX***
 
@@ -310,7 +313,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://allcutv.rctiplus.id/inews2023.m3u8
 
 ***INEWS - MX***
 
